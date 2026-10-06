@@ -16,3 +16,6 @@ This project simulates a car parking sensor using Arduino Uno R3 and other compo
 ## Files
 - car_parking_sensor.ino - full project (Arduino) code
 - documentation.pdf - full project documentation (problem description, design, parts list, wiring/photo/schematic, what worked and what didn't, future improvements)
+
+## Demo video
+Watch the demo on YouTube: https://youtu.be/-p2tUF-fARI
